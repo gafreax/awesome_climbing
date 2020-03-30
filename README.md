@@ -4,7 +4,8 @@ Unsorted Collection of Awesome Climbing Videos (>10 min)
 Continous updates - Last Update 24.3.20
 
 <div class="datatable-begin"></div>
-## Movies
+| Type  | Content | Payment |
+|-------|--------|---------|
 | movie | [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) | free |
 | movie | [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) | free |
 | movie | [The Dawn Wall](https://www.netflix.com/watch/81004270?trackId=13752289&) (netflix account)
