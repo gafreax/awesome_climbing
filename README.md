@@ -1,3 +1,6 @@
+---
+datatable: true
+---
 # Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min) 
 
